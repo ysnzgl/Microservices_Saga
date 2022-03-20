@@ -1,3 +1,2 @@
-Çalışma aşamasındadır.
-Kendimi geliştirmek için yapmaya çalıştığımı bir projedir.
+Kendimi geliştirmek için yapmaya çalıştığımı Microservices saga Choreography design pattern çalışmasıdır.
 Henüz Tamamlanmadı.
